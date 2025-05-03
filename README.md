@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android App
-- 🌱 I’m currently learning Unity & Javascript
+- 🔭 I’m currently working on Python Web-Dev and AR/VR
+- 🌱 I’m currently learning Unity & AI/ML
 - 👯 I’m looking to collaborate on New tech project
 - 💬 Ask me about Entrepreunarship
 - 📫 How to reach me: sanskargoyal608@gmail.com
